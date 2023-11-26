@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-26T11:23:17Z" name="Surefire suite" finished-at="2023-11-26T11:23:26Z" duration-ms="8755">
+    <groups>
+    </groups>
+    <test started-at="2023-11-26T11:23:17Z" name="Surefire test" finished-at="2023-11-26T11:23:26Z" duration-ms="8755">
+      <class name="com.sdet.lab.NikhilJain_RestfulAndSoapWS.Soap_Web_Services_Test">
+        <test-method signature="GetRequestTest()[pri:0, instance:com.sdet.lab.NikhilJain_RestfulAndSoapWS.Soap_Web_Services_Test@4c402120]" started-at="2023-11-26T11:23:25Z" name="GetRequestTest" finished-at="2023-11-26T11:23:25Z" duration-ms="821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetRequestTest -->
+        <test-method signature="PostRequestTest()[pri:0, instance:com.sdet.lab.NikhilJain_RestfulAndSoapWS.Soap_Web_Services_Test@4c402120]" started-at="2023-11-26T11:23:25Z" name="PostRequestTest" finished-at="2023-11-26T11:23:26Z" duration-ms="775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostRequestTest -->
+      </class> <!-- com.sdet.lab.NikhilJain_RestfulAndSoapWS.Soap_Web_Services_Test -->
+      <class name="com.sdet.lab.NikhilJain_RestfulAndSoapWS.Restful_Web_Services_Test">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.sdet.lab.NikhilJain_RestfulAndSoapWS.Restful_Web_Services_Test@2d1ef81a]" started-at="2023-11-26T11:23:17Z" name="beforeTest" finished-at="2023-11-26T11:23:18Z" duration-ms="583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="DeleteRequestTest()[pri:0, instance:com.sdet.lab.NikhilJain_RestfulAndSoapWS.Restful_Web_Services_Test@2d1ef81a]" started-at="2023-11-26T11:23:18Z" name="DeleteRequestTest" finished-at="2023-11-26T11:23:21Z" duration-ms="2950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteRequestTest -->
+        <test-method signature="GetRequestTest()[pri:0, instance:com.sdet.lab.NikhilJain_RestfulAndSoapWS.Restful_Web_Services_Test@2d1ef81a]" started-at="2023-11-26T11:23:21Z" name="GetRequestTest" finished-at="2023-11-26T11:23:21Z" duration-ms="463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetRequestTest -->
+        <test-method signature="PatchRequestTest()[pri:0, instance:com.sdet.lab.NikhilJain_RestfulAndSoapWS.Restful_Web_Services_Test@2d1ef81a]" started-at="2023-11-26T11:23:21Z" name="PatchRequestTest" finished-at="2023-11-26T11:23:23Z" duration-ms="1799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PatchRequestTest -->
+        <test-method signature="PostRequestTest()[pri:0, instance:com.sdet.lab.NikhilJain_RestfulAndSoapWS.Restful_Web_Services_Test@2d1ef81a]" started-at="2023-11-26T11:23:23Z" name="PostRequestTest" finished-at="2023-11-26T11:23:24Z" duration-ms="706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostRequestTest -->
+        <test-method signature="PutRequestTest()[pri:0, instance:com.sdet.lab.NikhilJain_RestfulAndSoapWS.Restful_Web_Services_Test@2d1ef81a]" started-at="2023-11-26T11:23:24Z" name="PutRequestTest" finished-at="2023-11-26T11:23:25Z" duration-ms="640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PutRequestTest -->
+      </class> <!-- com.sdet.lab.NikhilJain_RestfulAndSoapWS.Restful_Web_Services_Test -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
